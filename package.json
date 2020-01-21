@@ -1,0 +1,20 @@
+{
+    "name": "express",
+    "version": "1.0.0",
+    "dependencies": {
+        "axios": "^0.19.1",
+        "concurrently": "^5.0.2",
+        "cors": "^2.8.5",
+        "ejs": "~1.0.0",
+        "express": "^4.17.1",
+        "express-cache-controller": "^1.1.0",
+        "https": "^1.0.0",
+        "mysql": "*",
+        "querystring": "^0.2.0",
+        "request": "^2.88.0"
+    },
+    "scripts": {
+        "react_client": "cd react_node_app && npm start",
+        "dev": "concurrently \"node index\" \" npm react_client\""
+    }
+}
