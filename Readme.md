@@ -3,7 +3,7 @@
 
 Fully working React app with nodejs as server .
 
-##Installation:
+## Installation:
 
 To have nodejs as server in the root folder type:
 
