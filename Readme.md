@@ -1,9 +1,9 @@
 
-#react_node
+## react_node
 
 Fully working React app with nodejs as server .
 
-Installation:
+##Installation:
 
 To have nodejs as server in the root folder type:
 
@@ -22,6 +22,8 @@ npm run start
 open browser (if it doesn't open  automatically) and in an address bar put:
 
 http://localhost:3000
+
+## Running app
 
 Run localhost:3000/get-campaign - to add campaign
 
