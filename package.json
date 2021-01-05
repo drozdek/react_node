@@ -2,7 +2,7 @@
     "name": "express",
     "version": "1.0.0",
     "dependencies": {
-        "axios": "^0.19.1",
+        "axios": "^0.21.1",
         "concurrently": "^5.0.2",
         "cors": "^2.8.5",
         "ejs": "~1.0.0",
